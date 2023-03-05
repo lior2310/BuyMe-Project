@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="274c6f69-1819-4c21-a215-501f540e3da1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/BaseTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="274c6f69-1819-4c21-a215-501f540e3da1" name="Changes" comment="exercise exemple" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +55,18 @@
       <option name="presentableId" value="Default" />
       <updated>1677606730890</updated>
     </task>
+    <task id="LOCAL‎-00001" summary="exercise exemple">
+      <created>1678041587088</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1678041587088</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="exercise exemple" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise exemple" />
   </component>
 </project>
