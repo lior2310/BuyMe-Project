@@ -26,7 +26,7 @@ public static void setUp(){
 
     private static String reportFillPath ="C:/Users/User/Desktop/AutomationCourse.BuyMe-project.html";
 
-
+String lior;
 
     //driver
     //file path
